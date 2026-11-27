@@ -17,8 +17,8 @@ checked against at least two outlets dated that day; the date-check box
 says what was left out and why.
 
 [![news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_campaign=news-image-20261126)
-[![rank](https://make.fun/badge/news-image-20261126/mrizki158/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126?utm_campaign=news-image-20261126)
-[![reward](https://make.fun/badge/news-image-20261126/mrizki158/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/mrizki158/news-image-20261126-v3/rank.svg)](https://make.fun/bounty/news-image-20261126?utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/mrizki158/news-image-20261126-v3/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_campaign=news-image-20261126)
 
 ## How it works
 
